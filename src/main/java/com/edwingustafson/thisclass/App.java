@@ -1,4 +1,4 @@
-package com.edwingustafson;
+package com.edwingustafson.thisclass;
 
 /**
  * Look up our own class
